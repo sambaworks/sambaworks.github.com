@@ -1,0 +1,25 @@
+#
+# OS X noise
+#
+
+.DS_Store
+Icon
+.Spotlight-V100
+.Trashes
+
+#
+# Jekyll
+#
+*~
+_site/
+
+
+#
+# Misc
+#
+
+*~
+*.bak
+*.o
+*.pyc
+*.pyo
