@@ -28,20 +28,12 @@ ul li{
 	list-style: none;
 	margin-left:0em;
 }
-#map{
-	margin-left: 25%;
-	margin-right: auto;
-	width:400px;
-
-}
 #_sidebar{
 	position:fixed;
 	left:1px;
 	top:4em;
 	font-size:14pt;
 }
-
-
 
 #content{
 	width:700px;
