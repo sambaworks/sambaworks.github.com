@@ -3,9 +3,9 @@ body {
 	display:block;
 	text-align:left;
 	font: 12pt Helvetica, Arial, Verdana, sans-serif;
-	background-color: rgb(22,22,22);
+	background-color: rgb(44,44,44);
 	color:#F3F3F3;
-	margin-top:1em;
+	padding-top:60px;
 }
 p{
 	font-size:12pt;
@@ -31,15 +31,9 @@ ul li{
 	list-style: none;
 	margin-left:0em;
 }
-/*#_sidebar{
-	position:fixed;
-	left:1px;
-	top:4em;
-	font-size:14pt;
-}
-*/
-.container-fluid > .content{
-	width:700px;
+#content{
+ 	width:700px;
+	margin:0 auto;
 }
 .hidden{
 	display:none;
